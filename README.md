@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/ViktorJoseCentonza">GitHub</a> ·
-  <a href="mailto:you@email.com">Email</a>
+  <a href="mailto:viktorjose02@gmail.com">Email</a>
 </p>
 
 ---
