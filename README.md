@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ViktorJoseCentonza">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/viktor-centonza-924170368/">Linkedin</a> ·
   <a href="mailto:viktorjose02@gmail.com">Email</a>
 </p>
 
