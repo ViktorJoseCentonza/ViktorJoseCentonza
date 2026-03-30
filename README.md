@@ -25,7 +25,7 @@ I like experimenting with UI, learning new frameworks, and understanding how thi
 
 ### Languages
 
-`HTML` · `CSS` · `JavaScript` · `Java` · `Dart`
+`HTML` · `CSS` · `JavaScript` · `Java`
 
 ### Frameworks
 
